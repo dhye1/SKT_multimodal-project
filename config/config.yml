@@ -1,0 +1,8 @@
+data_dir:
+  crema_d: /project/shrikann_35/tiantiaf/ser-data/CREMA-D/
+  iemocap: /home/dilab/hrimlee/test/IEMOCAP_full_release/
+  meld: /project/shrikann_35/tiantiaf/ser-data/MELD.Raw/
+  msp-improv: /project/shrikann_35/tiantiaf/ser-data/MSP-IMPROV/
+  msp-podcast: /project/shrikann_35/tiantiaf/ser-data/MSP-podcast
+  ravdess: /project/shrikann_35/tiantiaf/ser-data/Ravdess
+project_dir: /home/dilab/Seong/peft-ser/
