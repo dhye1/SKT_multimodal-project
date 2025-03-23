@@ -1,5 +1,6 @@
 # Multimodal Emotion Recognition and Depression Detection
 This repository contains a model for emotion recognition and depression detection using a multimodal dataset (text and audio).
+Our demo code is available at [https://github.com/dhye1/multimodal_peft-ser/edit/main/Readme.md](https://github.com/dhye1/SKT_Chatbot_Demo)!
 
 ## 1. Emotion Recognition
 
