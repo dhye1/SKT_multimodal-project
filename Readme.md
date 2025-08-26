@@ -1,4 +1,4 @@
-## SKT AI Fellowship 6기 (2024.05 - 2024.11)
+## SKT AI Fellowship - Multimodal Project (2024.05 - 2024.11)
 ### Multimodal Emotion Recognition and Depression Detection
 This repository contains a model for emotion recognition and depression detection using a multimodal dataset (text and audio). 
 
